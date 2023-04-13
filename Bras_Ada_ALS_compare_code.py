@@ -9,7 +9,6 @@ import random
 from random import choice
 import matplotlib.pyplot as plt
 from sympy.utilities.iterables import multiset_permutations 
-import matplotlib.pyplot as plt
 
 #metric [cost] [done][checked]
 def cost(X,bA,shape,rank): 
